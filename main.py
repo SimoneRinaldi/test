@@ -1,8 +1,8 @@
 import socket
 
 # Set the IP and port of the target host
-IP = "192.168.1.5"
-PORT = 4444
+IP = "9001-simonerinaldi-rinaldi-9p7xyyfmrvf.ws-eu96b.gitpod.io"
+PORT = 9001
 
 # Create a socket object
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
